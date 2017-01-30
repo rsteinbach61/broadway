@@ -3,5 +3,32 @@ header{
   background-repeat: no-repeat;
   background-size: 100% 100%;
   background-origin: content-box;
+  color: white;
 
+}
+body{
+  font-family: helvetica,sans-serif;
+  text-align: center;
+}
+ul{
+  list-style-type: none;
+}
+h4{
+  font-size: 23px;
+  font-weight: bold;
+}
+h1{
+  font-size: 70px;
+  font-weight: bold;
+}
+h2{
+  font-size: 32px;
+  font-weight: bold;
+}
+.words{
+  font-size: 14px;
+}
+#NY{
+  color: white;
+  background-image: url("../images/the-flatiron-building.jpg");
 }
