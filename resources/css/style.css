@@ -31,6 +31,10 @@ h2{
 #NY{
   color: white;
   background-image: url("../images/the-flatiron-building.jpg");
+  background-repeat: no-repeat;
+  background-position: 30% 45%;
+  background-size: auto;
+
 }
 footer{
   background-color: dimgray;
